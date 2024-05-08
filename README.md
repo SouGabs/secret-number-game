@@ -1,5 +1,5 @@
 # Jogo do número secreto
-## Projeto utilizado no curso de lógica de programação Alura
+## Projeto desenvolvido no curso de lógica de programação Alura
 
 ---
 
